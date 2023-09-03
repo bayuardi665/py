@@ -1,5 +1,5 @@
-# py
-Data Scientist Rakamin X Kalbe
+
+#Data Scientist Rakamin X Kalbe
 
 Kamu adalah seorang Data Scientist di Kalbe Nutritionals 
 dan sedang mendapatkan project baru dari tim inventory 
