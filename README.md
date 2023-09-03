@@ -1,6 +1,7 @@
 # py
 Data Scientist Rakamin X Kalbe
-# Kamu adalah seorang Data Scientist di Kalbe Nutritionals 
+
+Kamu adalah seorang Data Scientist di Kalbe Nutritionals 
 dan sedang mendapatkan project baru dari tim inventory 
 dan tim marketing.
 ○ Dari tim inventory, kamu diminta untuk dapat membantu 
